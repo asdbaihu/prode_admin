@@ -3,12 +3,33 @@
 <head>
 	<title>Crear Prode</title>
 </head>
+
+<script>
+function add_input(q){
+	var in_ht = "";
+	var lq = parseInt(q);
+	for (var i = 0; i < lq; i++) {
+		in_ht = "<input type='text' name='participante" + (i+1) + "'><br>";
+		document.getElementById("participantes").innerHTML+=in_ht;
+	}
+    
+}
+</script>
 <body>
 
 <h3>Nuevo Prode</h3><br>
 
 <form method="POST" action="/crear_prode">
-<input type="text" name="nombre"><br>
+Nombre: <input type="text" name="nombre"><br>
+
+Participantes:<br> 
+
+Cantidad: <input type="text" name="cantidad" id="cantidad"><button type="button" onclick="add_input(document.getElementById('cantidad').value)">Agregar</button> <br>
+<br>
+Nombres:<br>
+<div id="participantes">
+	
+</div>
 <button type="submit">Submit</button>
 </form>
 

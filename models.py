@@ -32,12 +32,13 @@ class Participante(db.Model):
     __tablename__ = 'participantes'
 
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String())
+    nombre = db.Column(db.String())
     puntos = db.relationship("Punto", backref='participantes')
     pronosticos = db.relationship("Pronostico", backref='participantes')
 
-    #def __init__(self, nombre):
-     #   self.nombre = nombre
+    def __init__(self, nombre, prode_id):
+        self.nombre = nombre
+        self.puntos = [Punto(prode_id, id)]
 
 
 class Punto(db.Model):
@@ -52,6 +53,12 @@ class Punto(db.Model):
     participante_id = db.Column(db.Integer, db.ForeignKey('participantes.id'),
         nullable=False)
 
+    def __init__(self, prode_id, participante_id):
+        self.cantidad = 0
+        self.plenos = 0
+
+        self.prode_id = prode_id
+        self.participante_id = participante_id
 
 class Partido(db.Model):
     __tablename__ = 'partidos'
