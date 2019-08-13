@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crear Prode</title>
+</head>
+<body>
+
+<h3>Nuevo Prode</h3><br>
+
+<form method="POST" action="/crear_prode">
+<input type="text" name="nombre"><br>
+<button type="submit">Submit</button>
+</form>
+
+{% for error in errors %}
+	<h4>{{ error }}</h4>
+{% endfor %}
+
+
+</body>
+</html>
