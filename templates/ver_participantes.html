@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Participantes</title>
+</head>
+<body>
+
+{% for k, v in participantes.items() %}
+	<a href="{{ k }}">{{ v }}</a><br>
+{% endfor %}
+
+</body>
+</html>

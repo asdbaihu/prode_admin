@@ -20,9 +20,9 @@ function add_input(q){
 <body>
 
 
-<h3>Nueva Fecha en prode {{prode}}</h3><br>
+<h3>Nueva Fecha en prode {{prode_nombre}}</h3><br>
 
-<form method="POST" action="/prodes/{{prode}}/agregar_fecha">
+<form method="POST" action="agregar_fecha">
 
 Fecha Numero: <input type="text" name="numero"><br>
 Cantidad: <input type="text" name="cantidad" id="cantidad"><button type="button" onclick="add_input(document.getElementById('cantidad').value)">Agregar</button> <br>

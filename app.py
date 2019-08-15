@@ -60,28 +60,56 @@ def crear_prode():
 		
 	return render_template('agregar_prode.html', errors=errors)
 
-
-
 @app.route('/prodes')
 def list_prodes():
-	prodes = []
+	prodes = {}
 	for p in db.session.query(Prode).all():
-		prodes.append(p.nombre)
+		prodes[p.id] = p.nombre
 
 	return render_template('list_prodes.html', prodes=prodes)
 
-@app.route('/prodes/<prode>')
-def view_prode(prode):
-	print(prode)
-	return render_template('view_prode.html', prode=prode)
+@app.route('/prodes/<prode_id>')
+def view_prode(prode_id):
+	print(prode_id)
+	try:
+		prode_nombre = db.session.query(Prode).filter_by(id=int(prode_id)).first().nombre
+		
+		return render_template('view_prode.html', prode=prode_nombre, prode_id=prode_id)
+	except Exception as e:
+		print(e)
+		return "error"
 
-@app.route('/prodes/<prode>/ver_fechas')
-def ver_fechas(prode):
+@app.route('/prodes/<prode_id>/ver_fechas')
+def ver_fechas(prode_id):
+	try:
+		fechas_obj_list = db.session.query(Fecha).filter_by(prode_id=int(prode_id)).all()
+		fechas = [x.numero for x in fechas_obj_list]
+		return render_template('ver_fechas.html', prode=prode_id, fechas=fechas)
+	except Exception as e:
+		print(e)
+		return "error"
 
+@app.route('/prodes/<prode_id>/ver_fechas/<fecha_numero>')
+def ver_fecha_numero(prode_id, fecha_numero):
+	try:
+		prode_nombre = db.session.query(Prode).filter_by(id=int(prode_id)).first().nombre
+		
+		fecha_id = db.session.query(Fecha).filter_by(prode_id=int(prode_id), numero=fecha_numero).first().id
 
-@app.route('/prodes/<prode>/agregar_fecha', methods=['GET', 'POST'])
-def agregar_fecha(prode):
+		partidos_obj_list = db.session.query(Partido).filter_by(fecha_id=int(fecha_id)).all()
+		partidos = [(x.local, x.visitante) for x in partidos_obj_list]
+		
+		return render_template('ver_fecha_numero.html', prode=prode_id, prode_nombre=prode_nombre, partidos=partidos, fecha_numero=fecha_numero)
+	except Exception as e:
+		print(e)
+		return "error"
+
+	
+@app.route('/prodes/<prode_id>/agregar_fecha', methods=['GET', 'POST'])
+def agregar_fecha(prode_id):
 	errors = []
+	prode_nombre = db.session.query(Prode).filter_by(id=int(prode_id)).first().nombre
+		
 	if request.method == "POST": 
 		try:
 			cantidad_equipos = request.form['cantidad']
@@ -111,7 +139,7 @@ def agregar_fecha(prode):
 			for p in partidos:
 				db.session.add(p)
 
-			f = Fecha(numero, 1, partidos)
+			f = Fecha(numero, int(prode_id), partidos)
 			db.session.add(f)
 
 			db.session.commit()
@@ -121,7 +149,23 @@ def agregar_fecha(prode):
 			errors.append("No se pudo agregar fecha a bd")
 			
 
-	return render_template('agregar_fecha.html', errors=errors, prode=prode)
+	return render_template('agregar_fecha.html', errors=errors, prode_nombre=prode_nombre, prode_id=prode_id)
+
+@app.route('/prodes/<prode_id>/ver_participantes')
+def ver_participantes(prode_id):
+	try:
+		puntos_obj_list = db.session.query(Punto).filter_by(prode_id=int(prode_id)).all()
+
+		participantes_obj_list = []
+		for p in puntos_obj_list:
+			participantes_obj_list.append(db.session.query(Participante).filter_by(id=p.participante_id).first())
+		
+
+		participantes = {x.id: x.nombre for x in participantes_obj_list}
+		return render_template('ver_participantes.html', prode=prode_id, participantes=participantes)
+	except Exception as e:
+		print(e)
+		return "error"
 
 
 if __name__ == '__main__':

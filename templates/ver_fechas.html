@@ -4,10 +4,14 @@
 	<title>Ver fechas</title>
 </head>
 <body>
+fechas de {{prode}}<br>
 
 {% for f in fechas %}
-	<h4>{{ f }}</h4>
+	<a href="/prodes/16/ver_fechas/{{f}}">{{ f }}</a><br>
 {% endfor %}
+<br>
+
+<a href="agregar_fecha">agregar fecha<a>
 
 
 </body>

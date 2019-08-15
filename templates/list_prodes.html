@@ -5,8 +5,8 @@
 </head>
 <body>
 
-{% for p in prodes %}
-	<a href="/prodes/{{ p }}">{{ p }}</a><br>
+{% for k, v in prodes.items() %}
+	<a href="/prodes/{{ k }}">{{ v }}</a><br>
 {% endfor %}
 
 </body>

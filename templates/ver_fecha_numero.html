@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fecha Numero {{fecha_numero}} - {{prode_name}}</title>
+</head>
+<body>
+
+Fecha Numero {{fecha_numero}} - {{prode_name}}<br>
+
+{% for p in partidos %}
+	{{ p[0] }} - {{p[1]}}<br>
+{% endfor %}
+
+</body>
+</html>

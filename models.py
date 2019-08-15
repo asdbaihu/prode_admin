@@ -98,7 +98,7 @@ class Fecha(db.Model):
     partidos = db.relationship("Partido", backref='fechas')
 
     def __init__(self, numero, prode_id, partidos):
-        self.nombre = numero
+        self.numero = numero
         self.prode_id = prode_id
 
         self.partidos = partidos
