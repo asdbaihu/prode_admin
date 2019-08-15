@@ -68,9 +68,22 @@ class Partido(db.Model):
     fecha_id = db.Column(db.Integer, db.ForeignKey('fechas.id'),
         nullable=False)
 
+    punto_personalizado = db.Column(db.Float, nullable=True)
+    pleno_personalizado = db.Column(db.Float, nullable=True)
+
     local = db.Column(db.String())
     visitante = db.Column(db.String())
-    resultado = db.Column(db.String())
+    resultado = db.Column(db.String(), nullable=True)
+
+
+    def __init__(self, fecha_id, local, visitante, resultado=None, punto_personalizado=None, pleno_personalizado=None):
+        self.fecha_id = fecha_id
+        self.local = local
+        self.visitante = visitante
+        self.resultado = resultado
+        self.punto_personalizado = punto_personalizado
+        self.pleno_personalizado = pleno_personalizado
+
 
 class Fecha(db.Model):
     __tablename__ = 'fechas'
@@ -80,10 +93,15 @@ class Fecha(db.Model):
     prode_id = db.Column(db.Integer, db.ForeignKey('prodes.id'),
         nullable=False)
 
-    cantidad = db.Column(db.Integer)
+    numero = db.Column(db.Integer)
 
     partidos = db.relationship("Partido", backref='fechas')
 
+    def __init__(self, numero, prode_id, partidos):
+        self.nombre = numero
+        self.prode_id = prode_id
+
+        self.partidos = partidos
 
 class Pronostico(db.Model):
     __tablename__ = 'pronosticos'

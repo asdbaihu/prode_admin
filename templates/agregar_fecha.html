@@ -1,37 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Crear Prode</title>
+	<title>Crear Fecha</title>
 </head>
 
 <script>
 function add_input(q){
 	var in_ht = "";
 	var lq = parseInt(q);
+	var p_equip = 1;
 	for (var i = 0; i < lq; i++) {
-		in_ht = "<input type='text' name='participante" + (i+1) + "'><br>";
-		document.getElementById("participantes").innerHTML+=in_ht;
+		in_ht = "<input type='text' name='equipo" + p_equip + "'> - <input type='text' name='equipo" + (p_equip+1) + "'> <br>";
+		document.getElementById("partidos").innerHTML+=in_ht;
+
+		p_equip += 2;
 	}
-    
 }
 </script>
 <body>
 
-<h3>Nuevo Prode</h3><br>
 
-<form method="POST" action="/crear_prode">
-Nombre: <input type="text" name="nombre"><br>
+<h3>Nueva Fecha en prode {{prode}}</h3><br>
 
+<form method="POST" action="/prodes/{{prode}}/agregar_fecha">
 
-Valor punto: <input type="text" name="nombre"><br>
-Valor pleno: <input type="text" name="nombre"><br>
-
-Participantes:<br> 
-
+Fecha Numero: <input type="text" name="numero"><br>
 Cantidad: <input type="text" name="cantidad" id="cantidad"><button type="button" onclick="add_input(document.getElementById('cantidad').value)">Agregar</button> <br>
 <br>
-Nombres:<br>
-<div id="participantes">
+
+Partidos:<br> 
+
+<div id="partidos">
 	
 </div>
 <button type="submit">Submit</button>
