@@ -1,0 +1,1463 @@
+Script started on Fri 16 Aug 2019 05:59:42 PM -03
+ImportError: No module named 'flask.ext'                                                       
+(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l                                                
+.   app.py     env   manage.py  __pycache__  requirements.txt                                  
+..  config.py  .env]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ ImportError: No module named 'flask.ext'                                                        
+bash: ImportError:: command not found
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ (env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l                                                 
+bash: syntax error near unexpected token `jndbn@debian:~/prjcts/pyt/prode_admin2$'
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ .   app.py     env   manage.py  __pycache__  requirementts.txt                                  
+from: too many arguments
+from: too many arguments
+from: too many arguments
+bash: app.py: line 6: syntax error near unexpected token `('
+bash: app.py: line 6: `app = Flask(__name__)'
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ ..  config.py  .env[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ 
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ .   app.py     env   manage.py  __pycache__  requirementts.txt                                  [A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l              [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A.   app.py     env   manage.py  __pycache__  requirements.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l              [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[AImportError: No module named 'flask.ext'       
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A.   app.py     env   manage.py  __pycache__  requirements.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl
+[0m[01;34m.[0m   app.py     [01;34menv[0m   import     models.py  [01;34m__pycache__[0m  requirements.txt
+[01;34m..[0m  config.py  .env  manage.py  os         README.md
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ l.   app.py     env   manage.py  __pycache__  requirementts.txt                                  [A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l              [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A.   app.py     env   manage.py  __pycache__  requirements.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Al[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kl.   app.py     env   manage.py  __pycache__  requirementts.txt                                  [A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l              [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[AImportError: No module named 'flask.ext'       
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Aexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvoldown ff[Kvoldown [4PexitImportError: No module named 'flask.ext'                                                        [Aexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvoldown [4PexitImportError: No module named 'flask.ext'                                                        [A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A.   app.py     env   manage.py  __pycache__  requirements.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l              [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[AImportError: No module named 'flask.ext'       
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A(env) jndbn@debian:~/prjcts/pyt/prode_admin2$ l
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A.   app.py     env   manage.py  __pycache__  requirements.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Al[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kl.   app.py     env   manage.py  __pycache__  requirementts.txt                                  [Al[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kpyro[K[K[K[Kpython manage.py db init
+Traceback (most recent call last):
+  File "manage.py", line 2, in <module>
+    from flask_script import Manager
+ImportError: No module named 'flask_script'
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ pip install Flask-Script
+Collecting Flask-Script
+  Using cached https://files.pythonhosted.org/packages/00/a4/cd587b2b19f043b65bf33ceda2f6e4e6cdbd0ce18d01a52b9559781b1da6/Flask-Script-2.0.6.tar.gz
+Requirement already satisfied: Flask in ./env/lib/python3.5/site-packages (from Flask-Script)
+Requirement already satisfied: Werkzeug>=0.15 in ./env/lib/python3.5/site-packages (from Flask->Flask-Script)
+Requirement already satisfied: click>=5.1 in ./env/lib/python3.5/site-packages (from Flask->Flask-Script)
+Requirement already satisfied: Jinja2>=2.10.1 in ./env/lib/python3.5/site-packages (from Flask->Flask-Script)
+Requirement already satisfied: itsdangerous>=0.24 in ./env/lib/python3.5/site-packages (from Flask->Flask-Script)
+Requirement already satisfied: MarkupSafe>=0.23 in ./env/lib/python3.5/site-packages (from Jinja2>=2.10.1->Flask->Flask-Script)
+Building wheels for collected packages: Flask-Script
+  Running setup.py bdist_wheel for Flask-Script ... [?25l- error
+  Complete output from command /home/jndbn/prjcts/pyt/prode_admin2/env/bin/python3.5 -u -c "import setuptools, tokenize;__file__='/tmp/pip-build-a48y4fi4/Flask-Script/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /tmp/tmp8f41sqn_pip-wheel- --python-tag cp35:
+  usage: -c [global_opts] cmd1 [cmd1_opts] [cmd2 [cmd2_opts] ...]
+     or: -c --help [cmd1 cmd2 ...]
+     or: -c --help-commands
+     or: -c cmd --help
+  
+  error: invalid command 'bdist_wheel'
+  
+  ----------------------------------------
+[31m  Failed building wheel for Flask-Script[0m
+[?25h  Running setup.py clean for Flask-Script
+Failed to build Flask-Script
+Installing collected packages: Flask-Script
+  Running setup.py install for Flask-Script ... [?25l- done
+[?25hSuccessfully installed Flask-Script-2.0.6
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ pip install Flask-Scriptython manage.py db init
+  Creating directory /home/jndbn/prjcts/pyt/prode_admin2/migrations ... done
+  Creating directory /home/jndbn/prjcts/pyt/prode_admin2/migrations/versions ... done
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/README ... done
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/alembic.ini ... done
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/script.py.mako ... done
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/env.py ... done
+  Please edit configuration/connection/logging settings in
+  '/home/jndbn/prjcts/pyt/prode_admin2/migrations/alembic.ini' before proceeding.
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db init[K[K[K[Ki[Kupdate[K[K[K[K[K[Kmigrate
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.autogenerate.compare] Detected added table 'participantes'
+INFO  [alembic.autogenerate.compare] Detected added table 'prodes'
+INFO  [alembic.autogenerate.compare] Detected added table 'fechas'
+INFO  [alembic.autogenerate.compare] Detected added table 'partidos'
+INFO  [alembic.autogenerate.compare] Detected added table 'pronosticos'
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/versions/687a20068d3a_.py ... done
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db migrate[K[K[K[K[K[K[Kupgrade
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.runtime.migration] Running upgrade  -> 687a20068d3a, empty message
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db upgrademigrate[3Pinitip install Flask-Scriptython manage.py db initl[Kpython manage.py db initl[K.   app.py     env   manage.py  __pycache__  requirements.txt                                  [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl[Kpython manage.py db initip install Flask-Scriptython manage.py db initmigrateupgrade[Kpython app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+test 1
+127.0.0.1 - - [16/Aug/2019 18:05:02] "POST /api/prode HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:05:51] "POST /api/participante HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 33, in <module>
+    class ParticipanteSchema(ma.Schema):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 34, in ParticipanteSchema
+    puntos = ma.Nested(PuntoSchema, many=True)
+NameError: name 'PuntoSchema' is not defined
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:23:01] "POST /api/participante HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:26:08] "DELETE /api/participante/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:26:55] "GET /api/participante/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:26:59] "GET /api/participante/1 HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+test 2
+127.0.0.1 - - [16/Aug/2019 18:28:18] "POST /api/prode HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/models.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 21
+    prode_id =
+             ^
+SyntaxError: invalid syntax
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py manage.py db upgrademigrate[3Pinitmigrateupgrademigrate
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.ddl.postgresql] Detected sequence named 'participantes_id_seq' as owned by integer column 'participantes(id)', assuming SERIAL and omitting
+INFO  [alembic.ddl.postgresql] Detected sequence named 'prodes_id_seq' as owned by integer column 'prodes(id)', assuming SERIAL and omitting
+INFO  [alembic.ddl.postgresql] Detected sequence named 'fechas_id_seq' as owned by integer column 'fechas(id)', assuming SERIAL and omitting
+INFO  [alembic.ddl.postgresql] Detected sequence named 'pronosticos_id_seq' as owned by integer column 'pronosticos(id)', assuming SERIAL and omitting
+INFO  [alembic.autogenerate.compare] Detected added column 'participantes.prode_id'
+INFO  [alembic.autogenerate.compare] Detected added foreign key (prode_id)(id) on table participantes
+  Generating /home/jndbn/prjcts/pyt/prode_admin2/migrations/versions/c37c5048133b_.py ... done
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db migrate[13Papp.py manage.py db upgrade
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.runtime.migration] Running upgrade 687a20068d3a -> c37c5048133b, empty message
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.NotNullViolation: column "prode_id" contains null values
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "manage.py", line 15, in <module>
+    manager.run()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_script/__init__.py", line 417, in run
+    result = self.handle(argv[0], argv[1:])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_script/__init__.py", line 386, in handle
+    res = handle(*args, **config)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_script/commands.py", line 216, in __call__
+    return self.run(*args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_migrate/__init__.py", line 95, in wrapped
+    f(*args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_migrate/__init__.py", line 280, in upgrade
+    command.upgrade(config, revision, sql=sql, tag=tag)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/command.py", line 276, in upgrade
+    script.run_env()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/script/base.py", line 475, in run_env
+    util.load_python_file(self.dir, "env.py")
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/util/pyfiles.py", line 90, in load_python_file
+    module = load_module_py(module_id, path)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/util/compat.py", line 177, in load_module_py
+    spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 673, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "migrations/env.py", line 96, in <module>
+    run_migrations_online()
+  File "migrations/env.py", line 90, in run_migrations_online
+    context.run_migrations()
+  File "<string>", line 8, in run_migrations
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/runtime/environment.py", line 839, in run_migrations
+    self.get_context().run_migrations(**kw)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/runtime/migration.py", line 362, in run_migrations
+    step.migration_fn(**kw)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/migrations/versions/c37c5048133b_.py", line 21, in upgrade
+    op.add_column('participantes', sa.Column('prode_id', sa.Integer(), nullable=False))
+  File "<string>", line 8, in add_column
+  File "<string>", line 3, in add_column
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/operations/ops.py", line 1904, in add_column
+    return operations.invoke(op)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/operations/base.py", line 345, in invoke
+    return fn(self, operation)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/operations/toimpl.py", line 131, in add_column
+    operations.impl.add_column(table_name, column, schema=schema)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/ddl/impl.py", line 231, in add_column
+    self._exec(base.AddColumn(table_name, column, schema=schema))
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/alembic/ddl/impl.py", line 134, in _exec
+    return conn.execute(construct, *multiparams, **params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/ddl.py", line 72, in _execute_on_connection
+    return connection._execute_ddl(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1050, in _execute_ddl
+    compiled,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (psycopg2.errors.NotNullViolation) column "prode_id" contains null values
+
+[SQL: ALTER TABLE participantes ADD COLUMN prode_id INTEGER NOT NULL]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db upgrademigrate[13Papp.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:32:13] "DELETE /api/participante/1 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column participantes.prode_id does not exist
+LINE 1: ...id, participantes.nombre AS participantes_nombre, participan...
+                                                             ^
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 165, in eliminar_participante
+    participante = Participante.query.get(id)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 959, in get
+    return self._get_impl(ident, loading.load_on_pk_identity)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 1069, in _get_impl
+    return db_load_fn(self, primary_key_identity)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/loading.py", line 282, in load_on_pk_identity
+    return q.one()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3292, in one
+    ret = self.one_or_none()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3261, in one_or_none
+    ret = list(self)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedColumn) column participantes.prode_id does not exist
+LINE 1: ...id, participantes.nombre AS participantes_nombre, participan...
+                                                             ^
+
+[SQL: SELECT participantes.id AS participantes_id, participantes.nombre AS participantes_nombre, participantes.prode_id AS participantes_prode_id, participantes.puntos AS participantes_puntos, participantes.plenos AS participantes_plenos 
+FROM participantes 
+WHERE participantes.id = %(param_1)s]
+[parameters: {'param_1': '1'}]
+(Background on this error at: http://sqlalche.me/e/f405)
+127.0.0.1 - - [16/Aug/2019 18:32:27] "DELETE /api/participante/1 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 165, in eliminar_participante
+    participante = Participante.query.get(id)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 959, in get
+    return self._get_impl(ident, loading.load_on_pk_identity)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 1069, in _get_impl
+    return db_load_fn(self, primary_key_identity)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/loading.py", line 282, in load_on_pk_identity
+    return q.one()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3292, in one
+    ret = self.one_or_none()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3261, in one_or_none
+    ret = list(self)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.InternalError: (psycopg2.errors.InFailedSqlTransaction) current transaction is aborted, commands ignored until end of transaction block
+
+[SQL: SELECT participantes.id AS participantes_id, participantes.nombre AS participantes_nombre, participantes.prode_id AS participantes_prode_id, participantes.puntos AS participantes_puntos, participantes.plenos AS participantes_plenos 
+FROM participantes 
+WHERE participantes.id = %(param_1)s]
+[parameters: {'param_1': '1'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+127.0.0.1 - - [16/Aug/2019 18:33:13] "GET /api/participante HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 136, in get_participante
+    todos = Participante.query.all()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.InternalError: (psycopg2.errors.InFailedSqlTransaction) current transaction is aborted, commands ignored until end of transaction block
+
+[SQL: SELECT participantes.id AS participantes_id, participantes.nombre AS participantes_nombre, participantes.prode_id AS participantes_prode_id, participantes.puntos AS participantes_puntos, participantes.plenos AS participantes_plenos 
+FROM participantes]
+(Background on this error at: http://sqlalche.me/e/2j85)
+127.0.0.1 - - [16/Aug/2019 18:33:15] "GET /api/participante HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 136, in get_participante
+    todos = Participante.query.all()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3178, in all
+    return list(self)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3334, in __iter__
+    return self._execute_and_instances(context)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/query.py", line 3359, in _execute_and_instances
+    result = conn.execute(querycontext.statement, self._params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.InternalError: (psycopg2.errors.InFailedSqlTransaction) current transaction is aborted, commands ignored until end of transaction block
+
+[SQL: SELECT participantes.id AS participantes_id, participantes.nombre AS participantes_nombre, participantes.prode_id AS participantes_prode_id, participantes.puntos AS participantes_puntos, participantes.plenos AS participantes_plenos 
+FROM participantes]
+(Background on this error at: http://sqlalche.me/e/2j85)
+^C]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py manage.py db upgrade
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.runtime.migration] Running upgrade 687a20068d3a -> c37c5048133b, empty message
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db upgrade[13Papp.py manage.py db upgrademigrate
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+INFO  [alembic.ddl.postgresql] Detected sequence named 'prodes_id_seq' as owned by integer column 'prodes(id)', assuming SERIAL and omitting
+INFO  [alembic.ddl.postgresql] Detected sequence named 'fechas_id_seq' as owned by integer column 'fechas(id)', assuming SERIAL and omitting
+INFO  [alembic.ddl.postgresql] Detected sequence named 'pronosticos_id_seq' as owned by integer column 'pronosticos(id)', assuming SERIAL and omitting
+INFO  [alembic.env] No changes in schema detected.
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db migrateupgrade
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python manage.py db upgrademigrateupgrade[13Papp.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:36:37] "POST /api/participante HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.NotNullViolation: null value in column "prode_id" violates not-null constraint
+DETAIL:  Failing row contains (3, Paco, 0, 0, null).
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 129, in agregar_participante
+    db.session.commit()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/scoping.py", line 162, in do
+    return getattr(self.registry(), name)(*args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 1027, in commit
+    self.transaction.commit()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 494, in commit
+    self._prepare_impl()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 473, in _prepare_impl
+    self.session.flush()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2459, in flush
+    self._flush(objects)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2597, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/session.py", line 2557, in _flush
+    flush_context.execute()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/persistence.py", line 1138, in _emit_insert_statements
+    statement, params
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 988, in execute
+    return meth(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/sql/elements.py", line 287, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1107, in _execute_clauseelement
+    distilled_params,
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (psycopg2.errors.NotNullViolation) null value in column "prode_id" violates not-null constraint
+DETAIL:  Failing row contains (3, Paco, 0, 0, null).
+
+[SQL: INSERT INTO participantes (nombre, prode_id, puntos, plenos) VALUES (%(nombre)s, %(prode_id)s, %(puntos)s, %(plenos)s) RETURNING participantes.id]
+[parameters: {'nombre': 'Paco', 'prode_id': None, 'plenos': 0, 'puntos': 0}]
+(Background on this error at: http://sqlalche.me/e/gkpj)
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/models.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:37:04] "POST /api/participante HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:38:06] "PUT /api/participante HTTP/1.1" 405 -
+127.0.0.1 - - [16/Aug/2019 18:38:24] "PUT /api/participante/2 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 155, in actualizar_participante
+    participante.nombre = nombre
+AttributeError: 'NoneType' object has no attribute 'nombre'
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:39:20] "PUT /api/participante/4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:39:40] "PUT /api/participante/4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:41:09] "DELETE /api/participante/4 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 18:41:22] "POST /api/participante HTTP/1.1" 200 -
+^C]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:47:31] "POST /api/fecha HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 185, in agregar_fecha
+    nueva_fecha = Fecha(numero, prode_id)
+TypeError: __init__() missing 1 required positional argument: 'partidos'
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/models.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:47:54] "POST /api/fecha HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Fecha' object has no attribute 'nombre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 190, in agregar_fecha
+    return prode_schema.jsonify(nueva_fecha)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "nombre" is not a valid field for <Fecha 1>.
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:49:30] "POST /api/fecha HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Fecha' object has no attribute 'nombre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 190, in agregar_fecha
+    return prode_schema.jsonify(nueva_fecha)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "nombre" is not a valid field for <Fecha 2>.
+127.0.0.1 - - [16/Aug/2019 18:50:32] "POST /api/fecha HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Fecha' object has no attribute 'nombre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 190, in agregar_fecha
+    return prode_schema.jsonify(nueva_fecha)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "nombre" is not a valid field for <Fecha 3>.
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 18:53:02] "POST /api/fecha HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 199, in <module>
+    @app.route('/api/fecha/<id>', methods=['GET'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: get_participante_by_id
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 19:07:38] "POST /api/fecha/ HTTP/1.1" 404 -
+127.0.0.1 - - [16/Aug/2019 19:07:46] "POST /api/fecha HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:07:52] "GET /api/fecha/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:07:54] "GET /api/fecha/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:07:57] "GET /api/fecha/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:07:58] "GET /api/fecha/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:08:09] "PUT /api/fecha/2 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 218, in actualizar_fecha
+    return fecha_schema.jsonify(participante)
+NameError: name 'participante' is not defined
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 19:08:29] "PUT /api/fecha/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:08:46] "GET /api/fecha/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 19:08:50] "DELETE /api/fecha/2 HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 237, in <module>
+    @app.route('/api/partido', methods=['POST'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: agregar_fecha
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 20:43:11] "POST /api/partido HTTP/1.1" 400 -
+127.0.0.1 - - [16/Aug/2019 20:43:22] "POST /api/partido HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 245, in agregar_partido
+    punto_personalizado = request.json['punto_personalizado']
+KeyError: 'punto_personalizado'
+127.0.0.1 - - [16/Aug/2019 21:36:39] "POST /api/partido HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Partido' object has no attribute 'prode_id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 256, in agregar_partido
+    return fecha_schema.jsonify(nuevo_partido)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "prode_id" is not a valid field for <Partido 1>.
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 21:38:08] "POST /api/partido HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Partido' object has no attribute 'nombre'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 254, in agregar_partido
+    return prode_schema.jsonify(nuevo_partido)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "nombre" is not a valid field for <Partido 2>.
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 21:38:26] "POST /api/partido HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 264, in <module>
+    @app.route('/api/fecha/<id>', methods=['GET'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: get_fecha_by_id
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+Traceback (most recent call last):
+  File "app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 264, in <module>
+    @app.route('/api/partido/<id>', methods=['GET'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: get_fecha_by_id
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ [K]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:14:13] "GET /api/partido HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:14:19] "GET /api/partido/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:15:15] "POST /api/partido HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:16:02] "GET /api/partido/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:16:11] "GET /api/partido/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:16:14] "GET /api/partido/3 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:16:15] "GET /api/partido/4 HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 295, in <module>
+    @app.route('/api/fecha/<id>', methods=['DELETE'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: eliminar_fecha
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:20:01] "GET /api/partido/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:20:36] "PUT /api/partido/2 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:20:48] "GET /api/partido/3 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:20:55] "DELETE /api/partido/3 HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:29:56] "POST /api/pronostico HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 832, in __filter_fields
+    attribute_type = type(getattr(obj, key))
+AttributeError: 'Partido' object has no attribute 'participante_id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 325, in agregar_pronostico
+    return pronostico_schema.jsonify(nuevo_pronostico)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask_marshmallow/schema.py", line 41, in jsonify
+    data = self.dump(obj, many=many).data
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 508, in dump
+    self._update_fields(processed_obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 771, in _update_fields
+    ret = self.__filter_fields(field_names, obj, many=many)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/marshmallow/schema.py", line 836, in __filter_fields
+    '"{0}" is not a valid field for {1}.'.format(key, obj))
+AttributeError: "participante_id" is not a valid field for <Partido 5>.
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:30:35] "POST /api/pronostico HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 320, in agregar_pronostico
+    nuevo_pronostico = Pronostico(participante_id, partido_id, resultado)
+  File "<string>", line 4, in __init__
+    
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/state.py", line 441, in _initialize_instance
+    manager.dispatch.init_failure(self, args, kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/state.py", line 438, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 89, in __init__
+    self.partido_id = partido.id
+NameError: name 'partido' is not defined
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/models.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:32:21] "POST /api/pronostico HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 320, in agregar_pronostico
+    nuevo_pronostico = Pronostico(participante_id, partido_id, resultado)
+  File "<string>", line 4, in __init__
+    
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/state.py", line 441, in _initialize_instance
+    manager.dispatch.init_failure(self, args, kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/sqlalchemy/orm/state.py", line 438, in _initialize_instance
+    return manager.original_init(*mixed[1:], **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 89, in __init__
+    self.partido_id = partido.id
+NameError: name 'partido' is not defined
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/models.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:33:15] "POST /api/pronostico HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 335, in <module>
+    @app.route('/api/partido/<id>', methods=['GET'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: get_partido_by_id
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:34:51] "GET /api/pronostico/1 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2463, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2449, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1866, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 339, in get_pronostico_by_id
+    return pronostico_schema.jsonify(partido)
+NameError: name 'partido' is not defined
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:35:02] "GET /api/pronostico/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:35:06] "GET /api/pronostico HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 356, in <module>
+    @app.route('/api/prode/<id>', methods=['DELETE'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: eliminar_prode
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+Traceback (most recent call last):
+  File "app.py", line 13, in <module>
+    from models import *
+  File "/home/jndbn/prjcts/pyt/prode_admin2/models.py", line 1, in <module>
+    from app import db
+  File "/home/jndbn/prjcts/pyt/prode_admin2/app.py", line 358, in <module>
+    @app.route('/api/prode/<id>', methods=['DELETE'])
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1314, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 98, in wrapper_func
+    return f(self, *args, **kwargs)
+  File "/home/jndbn/prjcts/pyt/prode_admin2/env/lib/python3.5/site-packages/flask/app.py", line 1283, in add_url_rule
+    "existing endpoint function: %s" % endpoint
+AssertionError: View function mapping is overwriting an existing endpoint function: eliminar_prode
+]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ python app.py 
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:38:25] "PUT /api/pronostico/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:38:29] "GET /api/pronostico/1 HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+127.0.0.1 - - [16/Aug/2019 23:39:27] "DELETE /api/pronostico/1 HTTP/1.1" 200 -
+127.0.0.1 - - [16/Aug/2019 23:39:35] "GET /api/pronostico HTTP/1.1" 200 -
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+ * Detected change in '/home/jndbn/prjcts/pyt/prode_admin2/app.py', reloading
+ * Restarting with stat
+[33m * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.[0m
+ * Debugger is active!
+ * Debugger PIN: 274-052-927
+^C]0;jndbn@debian: ~/prjcts/pyt/prode_admin2[01;32mjndbn@debian[00m:[01;34m~/prjcts/pyt/prode_admin2[00m$ exit
+exit
+
+Script done on Sat 17 Aug 2019 12:53:08 AM -03

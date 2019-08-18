@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jq test</title>
+	 <meta charset="UTF-8"> 
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		
+
+	</script>
+
+	<script>
+		var link = "http://127.0.0.1:5000/api/prode";
+		var test = 0;
+		//$.ajaxSetup({
+   		//	headers:{
+      	//		'Content-Type': "application/json"
+   		//	}	
+		//});
+		function show_names(item, index){
+			//$('#prodes').html('<div>');
+			//$("<p>" + index  + "- " + item.nombre + "<p>").append("#prodes");
+			console.log(index, item.nombre)
+
+		}
+		$(function(){
+			$("button").click(function(){
+				$.get(link, function(data,status){
+					//alert("Data" + data + "\nstatus: "+ status);
+					test = data;
+					
+					data.forEach(show_names);
+				}, "json");
+				
+			});
+		});
+
+	</script>
+
+	
+</head>
+<body>
+
+<p>hello test jquery<p>
+
+
+<div id="test_id">
+	<p>?<p>	
+</div>
+
+<script>
+	var hello_func = function(n){
+		return jQuery('<h4>hi' + n + '?</h4>')
+	}
+
+
+	$('#test_id').html('<div>')
+	$('#test_id div').append(hello_func("paco")).append("Rodríguez")
+
+</script>
+	
+
+<button>view prodes</button>
+
+<div id="prodes"></div>
+
+</body>
+</html>
